@@ -1,7 +1,7 @@
-name: calendar_date_picker_taco
+name: calendar_date_picker2
 description: fork calendar_date_picker2
 version: 1.1.8
-homepage: https://github.com/lookuss/calendar_date_picker_taco
+homepage: https://github.com/lookuss/calendar_date_picker2
 
 environment:
   sdk: ">=2.16.2 <4.0.0"

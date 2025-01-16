@@ -447,7 +447,7 @@ class _DayPickerGridDelegate extends SliverGridDelegate {
       totalRowsCount -= 1;
     }
     var rowHeight = config?.dayMaxWidth != null
-        ? (config!.dayMaxWidth! + 2)
+        ? (config!.dayMaxWidth!)
         : _dayPickerRowHeight;
     final double tileHeight = math.min(
       rowHeight,
